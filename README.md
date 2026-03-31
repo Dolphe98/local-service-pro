@@ -5,7 +5,7 @@ A high-impact, mobile-first React application engineered for the home services i
 ![Local Service Preview](https://images.unsplash.com/photo-1581094288338-2314dddb7ece?auto=format&fit=crop&q=80&w=1000)
 
 ## 🚀 Live Demo
-[Insert Your Vercel Link Here]
+[https://local-service-pro-five.vercel.app/]
 
 ## 🎯 The "Why": Strategic Design & UX
 Unlike a browsing-heavy e-commerce site, a local service site must solve a problem *instantly*. This project demonstrates:
